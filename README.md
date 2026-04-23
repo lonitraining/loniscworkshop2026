@@ -1,6 +1,6 @@
-# 2025 LONI Scientific Computing Bootcamp
+# 2026 LONI Scientific Computing Bootcamp
 
-## Repository for 2025 LONI Scientific Computing Bootcamp (tentative schedule, subject to change)
+## Repository for 2026 LONI Scientific Computing Bootcamp (tentative schedule, subject to change)
 
 * **Day 1**: Introduction to Python
 
