@@ -1,5 +1,13 @@
 # 2026 LONI Scientific Computing Bootcamp
 
+### Section 1 (June 2–4): Introduction to Python programming language with its applications in scientific computing
+
+| Date   | Time        | Topic                                                                 |
+|--------|-------------|-----------------------------------------------------------------------|
+| June 2 | 9:00 – 16:00 | Overview and Introduction to Python               |
+| June 3 | 9:00 – 16:00 | Intermediate Python                              |
+| June 4 | 9:00 – 16:00 | Getting Started with MATLAB: From Python to AI Integration|
+
 ## Repository for 2026 LONI Scientific Computing Bootcamp (tentative schedule, subject to change)
 
 * **Day 1**: Introduction to Python
