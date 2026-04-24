@@ -4,9 +4,17 @@
 
 | Date   | Time        | Topic                                                                 |
 |--------|-------------|-----------------------------------------------------------------------|
-| June 2 | 9:00 – 16:00 | Overview and Introduction to Python               |
-| June 3 | 9:00 – 16:00 | Intermediate Python                              |
-| June 4 | 9:00 – 16:00 | Getting Started with MATLAB: From Python to AI Integration|
+| June 1 | 9:00 – 16:00 | Overview and Introduction to Python               |
+| June 2 | 9:00 – 16:00 | Intermediate Python                              |
+| June 3 | 9:00 – 16:00 | NVIDIA DLI: Getting Started with Deep Learning|
+
+### Section 2 (June 6–8): Data Science, LLMs, and Scientific Computing
+
+| Date   | Time        | Topic                                                                 |
+|--------|-------------|-----------------------------------------------------------------------|
+| June 8 | 9:00 – 16:00 | Introduction to R              |
+| June 9 | 9:00 – 16:00 | NVIDIA DLI: Large Language Models                             |
+| June 10 | 9:00 – 16:00 | AI with MATLAB: From Raw Data to Trained Models              |
 
 ## Repository for 2026 LONI Scientific Computing Bootcamp (tentative schedule, subject to change)
 
