@@ -1,6 +1,6 @@
 # 2026 LONI Scientific Computing Bootcamp
 
-HPC@LSU will host the 2026 LONI Scientific Computing Bootcamp on June 1–3 and June 8–10 in a hybrid format (in-person and via Zoom). As computational methods and Artificial Intelligence (AI) continue to play an increasingly important role across research disciplines, many students and researchers lack structured training in the practical tools needed to apply these techniques effectively. This bootcamp is designed to bridge that gap through a combination of lectures and hands-on sessions, equipping participants with essential skills for modern computational and AI-driven research. The program is organized into two sections (tentative schedule, subject to change):
+HPC@LSU will host the 2026 LONI Scientific Computing Bootcamp on June 1–3 and June 8–10 in a hybrid format (in-person and via Zoom). As computational methods and Artificial Intelligence (AI) continue to play an increasingly important role across research disciplines, many students and researchers lack structured training in the practical tools needed to apply these techniques effectively. This bootcamp is designed to bridge that gap through a combination of lectures and hands-on sessions, equipping participants with essential skills for modern computational and AI-driven research. The program is organized into two sections (***tentative schedule, subject to change***):
 
 ### Section 1 (June 1–3): Introduction to Python programming language with its applications in scientific computing
 
