@@ -7,7 +7,7 @@ HPC@LSU will host the 2026 LONI Scientific Computing Bootcamp on June 1–3 and 
 | Date   | Time        | Topic                                                                 |Recording|
 |--------|-------------|-----------------------------------------------------------------------|---------|
 | June 1 | 9:00 – 16:00 | Overview and Introduction to Python               |https://youtu.be/AkipVxJpRyw|
-| June 2 | 9:00 – 16:00 | Intermediate Python                              ||
+| June 2 | 9:00 – 16:00 | Intermediate Python                              | https://youtu.be/gTK3ppWV_8I|
 | June 3 | 9:00 – 16:00 | NVIDIA DLI: Getting Started with Deep Learning||
 
 ### Section 2 (June 6–8): Applied AI with R, LLMs, and MATLAB
