@@ -12,11 +12,11 @@ HPC@LSU will host the 2026 LONI Scientific Computing Bootcamp on June 1–3 and 
 
 ### Section 2 (June 6–8): Applied AI with R, LLMs, and MATLAB
 
-| Date   | Time        | Topic                                                                 |
-|--------|-------------|-----------------------------------------------------------------------|
-| June 8 | 9:00 – 16:00 | Introduction to R              |
-| June 9 | 9:00 – 16:00 | NVIDIA DLI: Building Agentic AI Applications with LLMs                |
-| June 10 | 9:00 – 16:00 | AI with MATLAB: From Raw Data to Trained Models              |
+| Date   | Time        | Topic                                                                 |Recording|
+|--------|-------------|-----------------------------------------------------------------------|---------|
+| June 8 | 9:00 – 16:00 | Introduction to R              |https://youtu.be/DPcKsbP5QXc|
+| June 9 | 9:00 – 16:00 | NVIDIA DLI: Building Agentic AI Applications with LLMs                ||
+| June 10 | 9:00 – 16:00 | AI with MATLAB: From Raw Data to Trained Models              ||
 
 ## This repository is organized into Day 1 – Day 6 folders, each corresponding to the hands-on materials, slides, and exercises used during the bootcamp.
 
